@@ -17,6 +17,12 @@ pnpm run dev
 
 ---
 
+# Zod Validation library
+
+🔗 [https://zod.dev/](https://zod.dev/)
+
+---
+
 # React + Mantine Starter
 
 📦Can I use Mantine with Create React App?
